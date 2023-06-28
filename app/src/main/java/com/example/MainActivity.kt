@@ -44,8 +44,10 @@ class MainActivity : AppCompatActivity() {
         binding.tipResult.text = getString(R.string.tip_amount, formatedTip)
     }
 
+    // Комментарий для комита 23 06 2023
 
     // Комментарий для комита 23 06 2023
+
 
 
 
