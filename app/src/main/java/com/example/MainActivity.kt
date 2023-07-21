@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-// Комментарий для комита 22 06 2023
+// Комментарий для  22 06 2023
 
 
 
