@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-// Комментарий для  22 06 2
+// Комментарий для  22 06
 
 
 
