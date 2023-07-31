@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-// Комментарий для
+// Комментарий дл
 
 
 
